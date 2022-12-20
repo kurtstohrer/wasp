@@ -1,0 +1,4 @@
+---
+models:
+  functions: Function
+  langs: Lang
